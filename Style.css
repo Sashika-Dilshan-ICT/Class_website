@@ -197,8 +197,8 @@ body.dark-mode footer { background: #1e1e1e; }
 
 .container {
   display: flex;
-  justify-content: left;
-  align-items: left;
+  justify-content: Center;
+  align-items: Center;
   margin-top: 50px;   /* move left */
   margin-left: -10px;  /* move right */
 }
