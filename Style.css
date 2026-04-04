@@ -213,7 +213,7 @@ body.dark-mode footer { background: #1e1e1e; }
 
 .slider {
   overflow: hidden;
-  max-width: 1500px;
+  max-width: auto;
   margin: auto;
 }
 
